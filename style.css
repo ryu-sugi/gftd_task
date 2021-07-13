@@ -13,11 +13,35 @@ ul,li {
  margin: 0;
 }
 
-.logo {
- width: ;
- height: ;
+a {
+ text-decoration: none;
+ color: black;
+
 }
 
- .navbar {
-  fl
- }
+.logo {
+ width: 100px;
+ height: 100px;
+ background-color: #EEEEEE;
+ border-radius: 50%;
+}
+
+.navbar {
+ width: 50%;
+ padding: 20px;
+}
+
+.nav-lists {
+ display: flex;
+ list-style: none;
+}
+
+.top-baner {
+ width: 100%;
+}
+
+.footer {
+ background-color: black;
+ color: white;
+ text-align: center;
+}
